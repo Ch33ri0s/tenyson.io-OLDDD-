@@ -1,0 +1,23 @@
+// @import './variables';
+
+// Third-Party
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One&display=swap');
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: #F7FAFF;
+}
+
+#app {
+  font-family: 'Comfortaa', cursive;
+}
+
+$color-washed-red: #62504E;
+$color-washed-green: #625E4E;
+// Grays
+$color-dark-gray: #211F1A;
+$color-light-gray: #e0e0e0;
